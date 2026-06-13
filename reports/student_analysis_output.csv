@@ -1,0 +1,16 @@
+Student_ID,Study_Hours,Attendance,Assignments,IQ,CGPA,Marks,Placed,Cluster,Performance_Group
+1,5,85,8,110,7.5,78,1,0,Low Performer
+2,2,60,5,95,6.0,55,0,2,High Performer
+3,7,92,9,120,8.5,88,1,1,Average Performer
+4,3,70,6,100,6.8,62,0,0,Low Performer
+5,8,95,10,125,9.0,92,1,1,Average Performer
+6,4,75,7,105,7.0,68,0,0,Low Performer
+7,6,88,8,115,8.0,82,1,1,Average Performer
+8,1,55,4,90,5.5,50,0,2,High Performer
+9,9,98,10,130,9.5,96,1,1,Average Performer
+10,5,80,7,108,7.3,75,1,0,Low Performer
+11,3,65,5,98,6.2,58,0,2,High Performer
+12,7,90,9,118,8.4,86,1,1,Average Performer
+13,2,58,4,92,5.8,52,0,2,High Performer
+14,8,94,10,124,8.9,91,1,1,Average Performer
+15,4,72,6,102,6.9,65,0,0,Low Performer
